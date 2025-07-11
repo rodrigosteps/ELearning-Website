@@ -105,6 +105,7 @@ html::-webkit-scrollbar{
 .content h3{
   font-size: 90px;
   color: white;
+  text-shadow: 4px 4px 8px #0a0a0ae8;
 }
 .content p{
   margin-top: 10px;
